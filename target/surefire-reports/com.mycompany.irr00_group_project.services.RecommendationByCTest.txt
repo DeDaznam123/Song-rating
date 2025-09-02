@@ -1,0 +1,36 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.irr00_group_project.services.RecommendationByCTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.230 s <<< FAILURE! -- in com.mycompany.irr00_group_project.services.RecommendationByCTest
+com.mycompany.irr00_group_project.services.RecommendationByCTest.testRecommendationsDoNotIncludeLikedItems -- Time elapsed: 0.223 s <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.util.Objects.checkIndex(Objects.java:385)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at com.mycompany.irr00_group_project.services.Database.turnLineToReview(Database.java:466)
+	at com.mycompany.irr00_group_project.services.Database.getReviews(Database.java:541)
+	at com.mycompany.irr00_group_project.services.RecommendationByC.prepareCaches(RecommendationByC.java:85)
+	at com.mycompany.irr00_group_project.services.RecommendationByC.getRecommendations(RecommendationByC.java:254)
+	at com.mycompany.irr00_group_project.services.RecommendationByCTest.testRecommendationsDoNotIncludeLikedItems(RecommendationByCTest.java:93)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
+com.mycompany.irr00_group_project.services.RecommendationByCTest.testRecommendationsLimit -- Time elapsed: 0.006 s <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.util.Objects.checkIndex(Objects.java:385)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at com.mycompany.irr00_group_project.services.Database.turnLineToReview(Database.java:466)
+	at com.mycompany.irr00_group_project.services.Database.getReviews(Database.java:541)
+	at com.mycompany.irr00_group_project.services.RecommendationByC.prepareCaches(RecommendationByC.java:85)
+	at com.mycompany.irr00_group_project.services.RecommendationByC.getRecommendations(RecommendationByC.java:254)
+	at com.mycompany.irr00_group_project.services.RecommendationByCTest.testRecommendationsLimit(RecommendationByCTest.java:102)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+

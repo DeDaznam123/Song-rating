@@ -1,0 +1,8 @@
+id,title,artist_id,image
+1,Abbey Road,1,/db/images/albums/abbey_road.jpg
+2,The Dark Side of the Moon,2,/db/images/albums/dark_side.jpg
+3,OK Computer,3,/db/images/albums/ok_computer.jpg
+4,1989,4,/db/images/albums/1989.jpg
+5,To Pimp a Butterfly,5,/db/images/albums/pimp_butterfly.jpg
+6,Revolver,1,/db/images/albums/revolver.jpg
+7,Wish You Were Here,2,/db/images/albums/wish_you_were.jpg

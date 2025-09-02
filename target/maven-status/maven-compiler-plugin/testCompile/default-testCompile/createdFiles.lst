@@ -1,0 +1,9 @@
+com/mycompany/irr00_group_project/services/AuthenticationServiceTest.class
+com/mycompany/irr00_group_project/controllers/DetailsControllerTest.class
+com/mycompany/irr00_group_project/services/TableTest.class
+com/mycompany/irr00_group_project/controllers/SearchControllerTest.class
+com/mycompany/irr00_group_project/services/HashPasswordTest.class
+com/mycompany/irr00_group_project/services/RatingRecommenderServiceTest.class
+com/mycompany/irr00_group_project/UserTest.class
+com/mycompany/irr00_group_project/services/DatabaseTest.class
+com/mycompany/irr00_group_project/controllers/ReviewControllerTest.class

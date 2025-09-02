@@ -1,0 +1,25 @@
+id,title,artist_id,album_id,image
+1,Come Together,1,1,/db/images/albums/abbey_road.jpg
+2,Something,1,1,/db/images/albums/abbey_road.jpg
+3,Here Comes the Sun,1,1,/db/images/albums/abbey_road.jpg
+4,Octopus's Garden,1,1,/db/images/albums/abbey_road.jpg
+5,Oh Darling,1,1,/db/images/albums/abbey_road.jpg
+6,Time,2,2,/db/images/albums/dark_side.jpg
+7,Money,2,2,/db/images/albums/dark_side.jpg
+8,Breathe,2,2,/db/images/albums/dark_side.jpg
+9,Us and Them,2,2,/db/images/albums/dark_side.jpg
+10,Paranoid Android,3,3,/db/images/albums/ok_computer.jpg
+11,Karma Police,3,3,/db/images/albums/ok_computer.jpg
+12,No Surprises,3,3,/db/images/albums/ok_computer.jpg
+13,Exit Music (For a Film),3,3,/db/images/albums/ok_computer.jpg
+14,Shake It Off,4,4,/db/images/albums/1989.jpg
+15,Blank Space,4,4,/db/images/albums/1989.jpg
+16,Style,4,4,/db/images/albums/1989.jpg
+17,Bad Blood,4,4,/db/images/albums/1989.jpg
+18,King Kunta,5,5,/db/images/albums/pimp_butterfly.jpg
+19,Alright,5,5,/db/images/albums/pimp_butterfly.jpg
+20,These Walls,5,5,/db/images/albums/pimp_butterfly.jpg
+21,Eleanor Rigby,1,6,/db/images/albums/revolver.jpg
+22,Yellow Submarine,1,6,/db/images/albums/revolver.jpg
+23,Shine On You Crazy Diamond,2,7,/db/images/albums/wish_you_were.jpg
+24,Wish You Were Here,2,7,/db/images/albums/wish_you_were.jpg

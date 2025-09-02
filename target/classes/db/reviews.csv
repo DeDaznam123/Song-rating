@@ -1,0 +1,54 @@
+id,user_id,content,created_at,target_id,rating,reviewable_type
+1,1,Classic Beatles groove!,2025-06-01T12:00:00,1,5,SONG
+2,2,Love the melody.,2025-06-02T14:30:00,2,4,SONG
+3,3,Sunny and uplifting.,2025-06-03T10:15:00,3,5,SONG
+4,1,Cute and quirky.!!!,2025-06-18T06:52:18,4,4,SONG
+5,2,Powerful vocals.,2025-06-04T09:20:00,5,5,SONG
+6,3,Timeless track.,2025-06-05T11:10:00,6,5,SONG
+7,1,Funky and smooth.,2025-06-05T16:00:00,7,4,SONG
+8,2,Great intro!,2025-06-06T08:00:00,8,5,SONG
+9,3,So atmospheric.,2025-06-07T13:00:00,9,5,SONG
+10,1,Wild ride!,2025-06-07T18:00:00,10,5,SONG
+11,2,Dark but catchy.,2025-06-08T10:10:00,11,4,SONG
+12,3,Soothing tune.,2025-06-09T12:45:00,12,5,SONG
+13,1,Haunting lyrics.,2025-06-09T18:20:00,13,5,SONG
+14,2,Dance anthem!,2025-06-10T08:30:00,14,4,SONG
+15,3,Iconic pop.,2025-06-10T13:15:00,15,4,SONG
+16,1,Smooth vibe.,2025-06-11T09:45:00,16,4,SONG
+17,2,Intense breakup song.,2025-06-11T15:00:00,17,3,SONG
+18,3,Such strong energy.,2025-06-12T11:30:00,18,5,SONG
+19,1,Empowering!,2025-06-13T12:00:00,19,5,SONG
+20,2,Deep message.,2025-06-13T17:00:00,20,5,SONG
+21,3,Emotional classic.,2025-06-14T10:00:00,21,5,SONG
+22,1,Fun for kids!,2025-06-14T14:20:00,22,3,SONG
+23,2,Just beautiful.,2025-06-15T09:30:00,23,5,SONG
+24,3,Incredible work.,2025-06-15T11:50:00,24,5,SONG
+25,1,Greatest band ever.,2025-06-16T12:00:00,1,1,ARTIST
+26,2,Innovative and deep.,2025-06-16T12:30:00,2,1,ARTIST
+27,3,Epic soundscapes.,2025-06-16T13:00:00,3,1,ARTIST
+28,1,Pop queen!,2025-06-16T13:30:00,4,1,ARTIST
+29,2,Sharp storytelling.,2025-06-16T14:00:00,5,1,ARTIST
+30,3,Perfect album.,2025-06-17T10:00:00,1,1,ALBUM
+31,1,Love the concept.,2025-06-17T10:30:00,2,1,ALBUM
+32,2,No skips.,2025-06-17T11:00:00,3,1,ALBUM
+33,3,Solid pop collection.,2025-06-17T11:30:00,4,1,ALBUM
+34,1,Masterpiece!,2025-06-17T12:00:00,5,1,ALBUM
+35,2,So ahead of its time.,2025-06-17T13:00:00,6,1,ALBUM
+36,3,Epic and moving.,2025-06-17T14:00:00,7,1,ALBUM
+37,1,very nice,2025-06-18T06:39:21,23,4,SONG
+38,4,Not my style at all.,2025-06-18T08:01:00,8,2,SONG
+39,5,Pretty overrated.,2025-06-18T08:02:00,3,2,SONG
+40,6,Love the depth and layers.,2025-06-18T08:03:00,6,5,SONG
+41,7,Flat and uninspiring.,2025-06-18T08:04:00,14,2,SONG
+42,8,Could listen to this all day.,2025-06-18T08:05:00,7,5,SONG
+43,9,Catchy but lacks soul.,2025-06-18T08:06:00,4,3,SONG
+44,10,Absolutely amazing album.,2025-06-18T08:07:00,5,5,ALBUM
+45,11,Nothing really special.,2025-06-18T08:08:00,2,3,ALBUM
+46,12,Taylor’s best work yet!,2025-06-18T08:09:00,4,5,ALBUM
+47,13,Decent but forgettable.,2025-06-18T08:10:00,3,3,ALBUM
+48,14,Boring and repetitive.,2025-06-18T08:11:00,6,2,ALBUM
+49,5,Explosive energy and meaning.,2025-06-18T08:12:00,5,5,ARTIST
+50,6,Way too overhyped.,2025-06-18T08:13:00,1,2,ARTIST
+51,7,Floyd always delivers.,2025-06-18T08:14:00,2,5,ARTIST
+52,8,A bit too experimental.,2025-06-18T08:15:00,3,3,ARTIST
+53,1,coo000l ;),2025-06-18T07:26:36.446850636,4,3,ALBUM
